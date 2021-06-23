@@ -1,7 +1,7 @@
 
 ### Mohammad Mahdi Afshar, FreeLancer, Gamer, Music Lover, Youtuber.
 
-A 19 Y.O, Full Stack Developer with +5 years experience in PHP/Laravel, React, Next.JS.
+Full Stack Developer with +5 years experience in PHP/Laravel, React, Next.JS.
 
 **Languages:**<br/>
 _PHP, JavaScript, TypeScript, Lua, Bash_
