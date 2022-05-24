@@ -20,6 +20,5 @@ Email: [me@mamad.dev](mailto:me@mamad.dev)
 | [Instagram](https://www.instagram.com/mamad.dev/) 
 | [Telegram](https://t.me/reloadlife/) 
 | [Dev.to](https://dev.to/mamad_dev) 
-| [Buy Me Coffee](buymeacoffee.com/reloadlife)
 
 _<font size='6'>[📥 Download My Resume](https://mamad.dev/resume.pdf)</span>_
