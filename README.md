@@ -5,10 +5,10 @@
 
 
 **📄 Skills:**</br>
-_JavaScript / TypeScript, React, NestJs, Python, Django, PHP, Laravel, Symfony, Rest, GraphQL, MySQL, MongoDB, Redis, PostgreSQL, InfluxDB, GitlabCi, Ci/CD, DevOps, Docker, Kuber, Git, Nginx, Figma_
+_Golang, JavaScript / TypeScript, React, NestJs, Python, Django, PHP, Laravel, Symfony, Rest, GraphQL, MySQL, MongoDB, Redis, PostgreSQL, InfluxDB, GitlabCi, Ci/CD, DevOps, Docker, Kuber, Git, Nginx, Figma, Sockets, _
 
 **🎯 Trying to Learn:**</br>
-_GoLang, Tensorflow, MachineLearning, Rainforcement Learning, Data Science Stuff, Rust, C, Sockets, and what ever there's to learn._
+_Tensorflow, MachineLearning, Rainforcement Learning, Data Science Stuff, Rust, C, and what ever there's to learn._
 
 **📫 Connect:**</br>
 Email: [me@mamad.dev](mailto:me@mamad.dev) 
