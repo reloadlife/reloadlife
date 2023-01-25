@@ -21,7 +21,7 @@ Email: [me@mamad.dev](mailto:me@mamad.dev)
 | [Dev.to](https://dev.to/mamad_dev) 
 
 
-_<font size='6'>[📥 Download My Resume](https://mamad.dev/resume.pdf)</span>_
+_<font size='6'>[📥 Download My Resume --it is outdated, currently updating it.](https://mamad.dev/resume.pdf)</span>_
 
 [![MohammadMahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=reloadlife&count_private=true&show_icons=true&theme=swift&hide=issues)](#) 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reloadlife&hide=c%2B%2B,Jupyter%20Notebook,Lua,CMake&layout=compact)](#)
