@@ -1,6 +1,13 @@
 ### Mohammad Mahdi Afshar
 
-Senior Software Engineer with over 6 years of experience in designing, developing, and deploying high-performance software solutions using a variety of programming languages such as Golang, Node.js, Flutter & Dart, Python, PHP, and JavaScript and its variants. Skilled in utilizing modern frameworks such as React, NextJS, NestJS, Laravel, Django, Flask, Bootstrap, and Tailwind to build responsive and user-friendly interfaces. Proficient in working with databases such as MySQL, PostgreSQL, Redis, InfluxDB, and MongoDB, with a basic knowledge of Neo4j. Adept in automating deployment procedures using Ansible, Docker, and Kubernetes to ensure smooth and efficient deployment. A dedicated team player who is passionate about constantly learning and improving. Fluent in Persian and English, with basic knowledge of French and Turkish. Currently pursuing a degree in English Translation and Literature at Karaj Azad University. Additionally, I have a strong interest in AI and machine learning, and actively seek out opportunities to learn new technologies and stay current in the field.
+- 💻 Senior Software Engineer with **over 6 years** of experience in designing, developing, and deploying high-performance software solutions using a variety of programming languages such as Golang, Node.js, Flutter & Dart, Python, PHP, and JavaScript and its variants.
+- 🔥 Skilled in utilizing modern frameworks such as React, NextJS, NestJS, Laravel, Django, Flask, Bootstrap, and Tailwind to build responsive and user-friendly interfaces.
+- 📊 Proficient in working with databases such as MySQL, PostgreSQL, Redis, InfluxDB, and MongoDB, with a basic knowledge of Neo4j.
+- 🛠️ Adept in automating deployment procedures using Ansible, Docker, and Kubernetes to ensure smooth and efficient deployment.
+- 👨‍💼 A dedicated team player who is passionate about constantly learning and improving.
+- 🌎 Fluent in Persian and English, with basic knowledge of French and Turkish.
+- 📚 Currently pursuing a degree in English Translation and Literature at Karaj Azad University.
+- 🤖 Strong interest in AI and machine learning, actively seek out opportunities to learn new technologies and stay current in the field.
 
 **📫 Connect:**</br>
 Email: [me@mamad.dev](mailto:me@mamad.dev) 
