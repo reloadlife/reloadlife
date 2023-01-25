@@ -1,14 +1,6 @@
 ### Mohammad Mahdi Afshar
 
-👋 Hey!, I'm Mohammad,</br>
-21 Years old English Translation Student who loves coding and developing new tools and services.
-
-
-**📄 Skills:**</br>
-_Golang, JavaScript / TypeScript, React, NestJs, Python, Django, PHP, Laravel, Symfony, Rest, GraphQL, MySQL, MongoDB, Redis, PostgreSQL, InfluxDB, GitlabCi, Ci/CD, DevOps, Docker, Kuber, Git, Nginx, Figma, Sockets, _
-
-**🎯 Trying to Learn:**</br>
-_Tensorflow, MachineLearning, Rainforcement Learning, Data Science Stuff, Rust, C, and what ever there's to learn._
+Senior Software Engineer with over 6 years of experience in designing, developing, and deploying high-performance software solutions using a variety of programming languages such as Golang, Node.js, Flutter & Dart, Python, PHP, and JavaScript and its variants. Skilled in utilizing modern frameworks such as React, NextJS, NestJS, Laravel, Django, Flask, Bootstrap, and Tailwind to build responsive and user-friendly interfaces. Proficient in working with databases such as MySQL, PostgreSQL, Redis, InfluxDB, and MongoDB, with a basic knowledge of Neo4j. Adept in automating deployment procedures using Ansible, Docker, and Kubernetes to ensure smooth and efficient deployment. A dedicated team player who is passionate about constantly learning and improving. Fluent in Persian and English, with basic knowledge of French and Turkish. Currently pursuing a degree in English Translation and Literature at Karaj Azad University. Additionally, I have a strong interest in AI and machine learning, and actively seek out opportunities to learn new technologies and stay current in the field.
 
 **📫 Connect:**</br>
 Email: [me@mamad.dev](mailto:me@mamad.dev) 
