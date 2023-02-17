@@ -6,6 +6,14 @@
 
 - I am confident in my capabilities to provide value to any firm as a proactive individual with a comprehensive comprehension of software development and its underlying ideas. I am dedicated to remaining current on industry trends, and I am constantly willing to take on new challenges and master new skills.
 
+
+------------
+#### Recent Projects
+
+- [Dollar Chande ? 💵 (a Telegram Bot)](https://t.me/DollarChandeBot) - A simple Telegram bot that displays the IRR exchange rate in relation to other currencies, as well as a [Telegram channel (💸 Dollar Chande ?! | الان دلار چنده ؟‌)](https://t.me/AlanDollarChande) that documents the prices every 5 minutes, so users can keep track of the rate.
+
+------------
+
 **📫 Connect:**</br>
 Email: [me@mamad.dev](mailto:me@mamad.dev) 
 | [mamad.dev](https://mamad.dev) 
