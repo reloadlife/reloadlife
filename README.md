@@ -18,7 +18,7 @@
 Email: [me@mamad.dev](mailto:me@mamad.dev) 
 | [mamad.dev](https://mamad.dev) 
 | [GitLab](https://gitlab.com/reloadlife) 
-| [Youtube](youtube.com/@reloadlife) 
+| [Youtube](https://youtube.com/@reloadlife) 
 | [Twitter](https://twitter.com/mamad_dev) 
 | [Linkedin](https://www.linkedin.com/in/reloadlife/) 
 | [Instagram](https://www.instagram.com/mamad.dev/) 
