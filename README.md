@@ -18,15 +18,15 @@
 Email: [me@mamad.dev](mailto:me@mamad.dev) 
 | [mamad.dev](https://mamad.dev) 
 | [GitLab](https://gitlab.com/reloadlife) 
-| [Youtube](https://www.youtube.com/channel/UCjTZIBpln06RcS53oUIiCDA) 
+| [Youtube](youtube.com/@reloadlife) 
 | [Twitter](https://twitter.com/mamad_dev) 
 | [Linkedin](https://www.linkedin.com/in/reloadlife/) 
 | [Instagram](https://www.instagram.com/mamad.dev/) 
-| [Telegram](https://t.me/reloadlife/) 
+| [Telegram](https://telegram.me/reloadlife/) 
 | [Dev.to](https://dev.to/mamad_dev) 
 
 
-_<font size='6'>[📥 Download My Resume --it is outdated, currently updating it.](https://mamad.dev/resume.pdf)</span>_
+_<font size='6'>[📥 Download My Resume](https://www.linkedin.com/in/reloadlife/) --if you want my resume just checkout my linkedin. i try to keep things updated there.</span>_
 
 
 
