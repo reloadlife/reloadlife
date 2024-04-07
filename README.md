@@ -1,6 +1,6 @@
 # Mohammad Mahdi Afshar
 
-> Senior Software Developer
+> Software Developer
 
 - As a knowledgeable software engineer with extensive experience in software development, I have such a diverse set of skills that includes level of competence in a wide range of programming languages such as Golang, Node.js, Flutter & Dart, Python, PHP, and JavaScript, as well as a thorough understanding of modern frameworks such as React, NextJS, NestJS, Laravel, Django, Flask, Bootstrap, and Tailwind. My expertise in databases, which include MySQL, PostgreSQL, Redis, InfluxDB, and MongoDB, along with a fundamental understanding of Neo4j, enables me to develop and implement highly scalable and resilient solutions that satisfy the demands of today's fast-paced corporate environment. I am also experienced in automation approaches, having used Ansible, Docker, and Kubernetes to enable rapid and efficient deployment procedures.
 
